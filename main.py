@@ -4,6 +4,7 @@ Accnumber = list(df.AccNumber)
 Name = list(df.Name)
 Balance = list(df.Balance)
 Pin = list(df.Pin)
+#data imported
 #df.drop('Pin',axis=1)
 #df.drop('AccNumber',axis=1)
 #df.drop('Balance',axis=1)
